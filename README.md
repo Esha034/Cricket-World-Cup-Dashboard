@@ -38,10 +38,10 @@ All datasets are included in the `/data` folder.
 
 ---
 
-##  Tools & Technologies
+##  Tools Used
 1. Google Looker Studio-BI & Visualization
 2. Google Sheets-Data preparation
-- Git & GitHub-Version control
+3.Git & GitHub-Version control
 
 ---
 
