@@ -39,9 +39,9 @@ All datasets are included in the `/data` folder.
 ---
 
 ##  Tools & Technologies
-- Google Looker Studio (BI & Visualization)
-- Google Sheets (Data preparation)
-- Git & GitHub (Version control)
+1. Google Looker Studio-BI & Visualization
+2. Google Sheets-Data preparation
+- Git & GitHub-Version control
 
 ---
 
